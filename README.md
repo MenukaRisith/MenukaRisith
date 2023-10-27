@@ -1,25 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on Genixplay Studio<br>🌱 I’m currently learning ReactJS, Python, Java, NodeJS, PHP<br>📫 How to reach me menuka@genixplay.com<br><br>
+# Hi, I'm Menuka Risith 👋
 
+I'm a 15-year-old web designer and developer from Habarana, Sri Lanka. I love creating beautiful and functional websites using modern technologies and frameworks. I'm also interested in cloud computing, Linux/Unix, and Flutter.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/hQMRP2tFbH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/menukar.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/menuka_risith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/menuka-risith-662479220) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lusifer801_mc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MrMenuka) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/MenukaTec) 
+## About Me
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MenukaRisith&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MenukaRisith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MenukaRisith&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🏫 I'm a student of Central College Kekirawa.
+- 💻 I have been working with servers and programming-related things since 2018, and I started my web designing journey in 2019.
+- 📺 I have a YouTube channel where I share my knowledge and projects with the community.
+- 🌱 I'm currently learning more about React.js, Remix.js, Next.js, and Tailwind CSS.
+- 🤝 I'm open to collaborations and opportunities to work on exciting web projects and android/iso projects.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Skills and Tools
 
----
-[![](https://visitcount.itsvg.in/api?id=MenukaRisith&icon=0&color=1)](https://visitcount.itsvg.in)
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind CSS
+- React.js, Remix.js, Next.js
+- Flutter
+- Linux/Unix
+- Cloud Computing (AWS, Google Cloud, Azure)
+- Git, GitHub
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/menuka.dev) 
+## Work Experience
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+Here are some of the places where I have worked as a founder, developer, web developer, or author:
+
+- **Eleventastic Solutions** (August 2023 - Present): Founder and Developer
+    - Founded and developed a social media agency that offers captivating graphic design, Android development, iOS development, and web development services
+    - Crafted seamless online experiences for clients using modern technologies and frameworks
+    - Merged creativity with strategy to ensure the brand's story shines across platforms
+    - Redefined the digital presence and made a lasting impact, both online and offline
+- **GenixPlay Studio** (June 2022 - Present): Developer
+    - Joined a talented team of developers and designers who are willing to make this technical world a better place for everyone
+    - Specialized in fields related to programming and computer science
+    - Built and contributed to various projects using different languages and tools
+    - Learned new skills and technologies from other team members
+- **AxeFlame Records** (September 2022 - Present): Web Developer
+    - Worked as a web developer for a Sri Lankan label that supports local music
+    - Developed and maintained websites for artists in various genres using HTML, CSS, JavaScript, Bootstrap, and React.js
+    - Implemented responsive design and user interface features for the websites
+    - Collaborated with other developers and clients using Git and GitHub
+- **The SriCom** (May 2022 - Present): Author
+    - Wrote articles for a Sri Lankan entertainment news website that covers a wide range of topics, including movies, TV shows, music, and gaming
+    - Featured news on Sri Lankan celebrities and the Sri Lankan entertainment industry
+    - Wrote in both Sinhala and English languages
+    - Gained a large following on social media
+
+## Contact Me
+
+You can reach me through any of the following channels:
+
+- Email: menuka.contact@gmail.com
+- Twitter: @MrMenuka
+- LinkedIn: Menuka Risith
+- Devfolio: menukarisith
+
+I hope you enjoyed reading my readme file. Feel free to follow me on GitHub or check out my other repositories. Thank you for your time and attention. 😊

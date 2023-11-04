@@ -45,7 +45,7 @@ Here are some of the places where I have worked as a founder, developer, web dev
     - Wrote in both Sinhala and English languages
     - Gained a large following on social media
 
-##Badges
+## Badges
 
 [![An image of @menukarisith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/menukarisith)](https://holopin.io/@menukarisith)
 

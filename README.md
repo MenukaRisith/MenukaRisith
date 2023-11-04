@@ -53,7 +53,8 @@ Here are some of the places where I have worked as a founder, developer, web dev
 
 You can reach me through any of the following channels:
 
-- Email: menuka.contact@gmail.com
+- Email: info@menukarisith.com
+- Web: menukarisith.com
 - Twitter: @MrMenuka
 - LinkedIn: Menuka Risith
 - Devfolio: menukarisith
